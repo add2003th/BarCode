@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DsBarcode" targetNamespace="http://tempuri.org/DsBarcode.xsd" xmlns:mstns="http://tempuri.org/DsBarcode.xsd" xmlns="http://tempuri.org/DsBarcode.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DsBarcode" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DsBarcode" msprop:Generator_DataSetName="DsBarcode" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="TbBarcode" msprop:Generator_UserTableName="TbBarcode" msprop:Generator_RowDeletedName="TbBarcodeRowDeleted" msprop:Generator_RowChangedName="TbBarcodeRowChanged" msprop:Generator_RowClassName="TbBarcodeRow" msprop:Generator_RowChangingName="TbBarcodeRowChanging" msprop:Generator_RowEvArgName="TbBarcodeRowChangeEvent" msprop:Generator_RowEvHandlerName="TbBarcodeRowChangeEventHandler" msprop:Generator_TableClassName="TbBarcodeDataTable" msprop:Generator_TableVarName="tableTbBarcode" msprop:Generator_RowDeletingName="TbBarcodeRowDeleting" msprop:Generator_TablePropName="TbBarcode">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="BARCODE" msprop:Generator_UserColumnName="BARCODE" msprop:Generator_ColumnPropNameInRow="BARCODE" msprop:Generator_ColumnVarNameInTable="columnBARCODE" msprop:Generator_ColumnPropNameInTable="BARCODEColumn" type="xs:string" />
+              <xs:element name="ORGANIZATION_CODE" msprop:Generator_UserColumnName="ORGANIZATION_CODE" msprop:Generator_ColumnPropNameInRow="ORGANIZATION_CODE" msprop:Generator_ColumnVarNameInTable="columnORGANIZATION_CODE" msprop:Generator_ColumnPropNameInTable="ORGANIZATION_CODEColumn" type="xs:string" />
+              <xs:element name="MACHINEMODEL" msprop:Generator_UserColumnName="MACHINEMODEL" msprop:Generator_ColumnPropNameInRow="MACHINEMODEL" msprop:Generator_ColumnVarNameInTable="columnMACHINEMODEL" msprop:Generator_ColumnPropNameInTable="MACHINEMODELColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="SERIALNO" msprop:Generator_UserColumnName="SERIALNO" msprop:Generator_ColumnPropNameInRow="SERIALNO" msprop:Generator_ColumnVarNameInTable="columnSERIALNO" msprop:Generator_ColumnPropNameInTable="SERIALNOColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MACHINE_CODE" msprop:Generator_UserColumnName="MACHINE_CODE" msprop:Generator_ColumnPropNameInRow="MACHINE_CODE" msprop:Generator_ColumnVarNameInTable="columnMACHINE_CODE" msprop:Generator_ColumnPropNameInTable="MACHINE_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="MACHINE_SERIAL" msprop:Generator_UserColumnName="MACHINE_SERIAL" msprop:Generator_ColumnPropNameInRow="MACHINE_SERIAL" msprop:Generator_ColumnVarNameInTable="columnMACHINE_SERIAL" msprop:Generator_ColumnPropNameInTable="MACHINE_SERIALColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TbGPS" msprop:Generator_UserTableName="TbGPS" msprop:Generator_RowDeletedName="TbGPSRowDeleted" msprop:Generator_RowChangedName="TbGPSRowChanged" msprop:Generator_RowClassName="TbGPSRow" msprop:Generator_RowChangingName="TbGPSRowChanging" msprop:Generator_RowEvArgName="TbGPSRowChangeEvent" msprop:Generator_RowEvHandlerName="TbGPSRowChangeEventHandler" msprop:Generator_TableClassName="TbGPSDataTable" msprop:Generator_TableVarName="tableTbGPS" msprop:Generator_RowDeletingName="TbGPSRowDeleting" msprop:Generator_TablePropName="TbGPS">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MACHINE_CODE" msprop:Generator_UserColumnName="MACHINE_CODE" msprop:Generator_ColumnVarNameInTable="columnMACHINE_CODE" msprop:Generator_ColumnPropNameInRow="MACHINE_CODE" msprop:Generator_ColumnPropNameInTable="MACHINE_CODEColumn" type="xs:string" />
+              <xs:element name="CUSTOMER_CODE" msprop:Generator_UserColumnName="CUSTOMER_CODE" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER_CODE" msprop:Generator_ColumnPropNameInRow="CUSTOMER_CODE" msprop:Generator_ColumnPropNameInTable="CUSTOMER_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ORGANIZATION_CODE" msprop:Generator_UserColumnName="ORGANIZATION_CODE" msprop:Generator_ColumnVarNameInTable="columnORGANIZATION_CODE" msprop:Generator_ColumnPropNameInRow="ORGANIZATION_CODE" msprop:Generator_ColumnPropNameInTable="ORGANIZATION_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LATITUDE" msprop:Generator_UserColumnName="LATITUDE" msprop:Generator_ColumnVarNameInTable="columnLATITUDE" msprop:Generator_ColumnPropNameInRow="LATITUDE" msprop:Generator_ColumnPropNameInTable="LATITUDEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LONGTITUDE" msprop:Generator_UserColumnName="LONGTITUDE" msprop:Generator_ColumnVarNameInTable="columnLONGTITUDE" msprop:Generator_ColumnPropNameInRow="LONGTITUDE" msprop:Generator_ColumnPropNameInTable="LONGTITUDEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER_NAME" msprop:Generator_UserColumnName="CUSTOMER_NAME" msprop:Generator_ColumnPropNameInRow="CUSTOMER_NAME" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER_NAME" msprop:Generator_ColumnPropNameInTable="CUSTOMER_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ORGANIZATION_NAME" msprop:Generator_UserColumnName="ORGANIZATION_NAME" msprop:Generator_ColumnVarNameInTable="columnORGANIZATION_NAME" msprop:Generator_ColumnPropNameInRow="ORGANIZATION_NAME" msprop:Generator_ColumnPropNameInTable="ORGANIZATION_NAMEColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="TbGPS2" msprop:Generator_UserTableName="TbGPS2" msprop:Generator_RowDeletedName="TbGPS2RowDeleted" msprop:Generator_RowChangedName="TbGPS2RowChanged" msprop:Generator_RowClassName="TbGPS2Row" msprop:Generator_RowChangingName="TbGPS2RowChanging" msprop:Generator_RowEvArgName="TbGPS2RowChangeEvent" msprop:Generator_RowEvHandlerName="TbGPS2RowChangeEventHandler" msprop:Generator_TableClassName="TbGPS2DataTable" msprop:Generator_TableVarName="tableTbGPS2" msprop:Generator_RowDeletingName="TbGPS2RowDeleting" msprop:Generator_TablePropName="TbGPS2">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="MACHINE_CODE" msprop:Generator_UserColumnName="MACHINE_CODE" msprop:Generator_ColumnVarNameInTable="columnMACHINE_CODE" msprop:Generator_ColumnPropNameInRow="MACHINE_CODE" msprop:Generator_ColumnPropNameInTable="MACHINE_CODEColumn" type="xs:string" />
+              <xs:element name="CUSTOMER_CODE" msprop:Generator_UserColumnName="CUSTOMER_CODE" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER_CODE" msprop:Generator_ColumnPropNameInRow="CUSTOMER_CODE" msprop:Generator_ColumnPropNameInTable="CUSTOMER_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ORGANIZATION_CODE" msprop:Generator_UserColumnName="ORGANIZATION_CODE" msprop:Generator_ColumnVarNameInTable="columnORGANIZATION_CODE" msprop:Generator_ColumnPropNameInRow="ORGANIZATION_CODE" msprop:Generator_ColumnPropNameInTable="ORGANIZATION_CODEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LATITUDE" msprop:Generator_UserColumnName="LATITUDE" msprop:Generator_ColumnVarNameInTable="columnLATITUDE" msprop:Generator_ColumnPropNameInRow="LATITUDE" msprop:Generator_ColumnPropNameInTable="LATITUDEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="LONGTITUDE" msprop:Generator_UserColumnName="LONGTITUDE" msprop:Generator_ColumnVarNameInTable="columnLONGTITUDE" msprop:Generator_ColumnPropNameInRow="LONGTITUDE" msprop:Generator_ColumnPropNameInTable="LONGTITUDEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="CUSTOMER_NAME" msprop:Generator_UserColumnName="CUSTOMER_NAME" msprop:Generator_ColumnVarNameInTable="columnCUSTOMER_NAME" msprop:Generator_ColumnPropNameInRow="CUSTOMER_NAME" msprop:Generator_ColumnPropNameInTable="CUSTOMER_NAMEColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ORGANIZATION_NAME" msprop:Generator_UserColumnName="ORGANIZATION_NAME" msprop:Generator_ColumnVarNameInTable="columnORGANIZATION_NAME" msprop:Generator_ColumnPropNameInRow="ORGANIZATION_NAME" msprop:Generator_ColumnPropNameInTable="ORGANIZATION_NAMEColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+    <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TbBarcode" />
+      <xs:field xpath="mstns:BARCODE" />
+    </xs:unique>
+    <xs:unique name="TbGPS_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+      <xs:selector xpath=".//mstns:TbGPS" />
+      <xs:field xpath="mstns:MACHINE_CODE" />
+    </xs:unique>
+  </xs:element>
+</xs:schema>

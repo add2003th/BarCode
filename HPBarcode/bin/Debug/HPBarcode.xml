@@ -1,0 +1,168 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HPBarcode
+</name>
+</assembly>
+<members>
+<member name="M:HPBarcode.GPS.CustomerGPS.#ctor">
+	<remarks/>
+</member><member name="M:HPBarcode.GPS.CustomerGPS.UpdateGPS">
+	<remarks/>
+</member><member name="M:HPBarcode.GPS.CustomerGPS.BeginUpdateGPS(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.GPS.CustomerGPS.EndUpdateGPS(System.IAsyncResult)">
+	<remarks/>
+</member><member name="T:HPBarcode.GPS.CustomerGPS">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.#ctor">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.Browse(System.String,HPBarcode.Ftp.FileExtensions,System.Boolean)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.BeginBrowse(System.String,HPBarcode.Ftp.FileExtensions,System.Boolean,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.EndBrowse(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.GetFile(System.String,System.String)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.BeginGetFile(System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.EndGetFile(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.UploadFile(System.String,System.String,System.Byte[])">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.BeginUploadFile(System.String,System.String,System.Byte[],System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.EndUploadFile(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.DirectoryExists(System.String)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.BeginDirectoryExists(System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.EndDirectoryExists(System.IAsyncResult)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.FileExists(System.String,System.String)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.BeginFileExists(System.String,System.String,System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.Ftp.Ftp.EndFileExists(System.IAsyncResult)">
+	<remarks/>
+</member><member name="T:HPBarcode.Ftp.Ftp">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.htm">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.html">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.asp">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.aspx">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.jpg">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.gif">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.dll">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.exe">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.xml">
+	<remarks/>
+</member><member name="F:HPBarcode.Ftp.FileExtensions.all">
+	<remarks/>
+</member><member name="T:HPBarcode.Ftp.FileExtensions">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.Name">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.Size">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.CreadedDate">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.LastModified">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.LastAccess">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.FileType">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.FileLocation">
+	<remarks/>
+</member><member name="P:HPBarcode.Ftp.FileInformation.FileContent">
+	<remarks/>
+</member><member name="T:HPBarcode.Ftp.FileInformation">
+	<remarks/>
+</member><member name="M:HPBarcode.StockSpares.StockSpares.#ctor">
+	<remarks/>
+</member><member name="M:HPBarcode.StockSpares.StockSpares.UpdateDatabase">
+	<remarks/>
+</member><member name="M:HPBarcode.StockSpares.StockSpares.BeginUpdateDatabase(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.StockSpares.StockSpares.EndUpdateDatabase(System.IAsyncResult)">
+	<remarks/>
+</member><member name="T:HPBarcode.StockSpares.StockSpares">
+	<remarks/>
+</member><member name="P:HPBarcode.My.Resources.Resources.ResourceManager">
+	<summary>
+   Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HPBarcode.My.Resources.Resources.Culture">
+	<summary>
+   Overrides the current thread's CurrentUICulture property for all
+   resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HPBarcode.My.Resources.Resources">
+	<summary>
+   A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbBarcodeDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbGPSDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbGPS2DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbBarcodeRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbGPSRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbGPS2Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbBarcodeRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbGPSRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HPBarcode.DsBarcode.TbGPS2RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:HPBarcode.DsBarcode">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="M:HPBarcode.GPSRIVAL.GPSRIVAL.#ctor">
+	<remarks/>
+</member><member name="M:HPBarcode.GPSRIVAL.GPSRIVAL.UpdateGPSRIVAL">
+	<remarks/>
+</member><member name="M:HPBarcode.GPSRIVAL.GPSRIVAL.BeginUpdateGPSRIVAL(System.AsyncCallback,System.Object)">
+	<remarks/>
+</member><member name="M:HPBarcode.GPSRIVAL.GPSRIVAL.EndUpdateGPSRIVAL(System.IAsyncResult)">
+	<remarks/>
+</member><member name="T:HPBarcode.GPSRIVAL.GPSRIVAL">
+	<remarks/>
+</member>
+</members>
+</doc>

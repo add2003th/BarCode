@@ -1,0 +1,36 @@
+C:\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.exe
+C:\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.pdb
+C:\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.xml
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\ResolveAssemblyReference.cache
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.Resources.resources
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.vbproj.GenerateResource.Cache
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.exe
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.xml
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.pdb
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.exe
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.pdb
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.xml
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\ResolveAssemblyReference.cache
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.Form1.resources
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.Resources.resources
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.vbproj.GenerateResource.Cache
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.exe
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.xml
+G:\Backup\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.pdb
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\ResolveAssemblyReference.cache
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.Form1.resources
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.Resources.resources
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.vbproj.GenerateResource.Cache
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.exe
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.xml
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.pdb
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.exe
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.pdb
+C:\Backup HPBarcode\HPBarcode\HPBarcode\HPBarcode\bin\Debug\HPBarcode.xml
+C:\HPBarcode\HPBarcode\HPBarcode\bin\Debug\GPSSerial.dll
+C:\HPBarcode\HPBarcode\HPBarcode\bin\Debug\GPSSerial.pdb
+C:\HPBarcode\HPBarcode\HPBarcode\bin\Debug\GPSSerial.xml
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.TESTGPS.resources
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.COINMAC.resources
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.MAIN.resources
+C:\HPBarcode\HPBarcode\HPBarcode\obj\Debug\HPBarcode.GPS2.resources

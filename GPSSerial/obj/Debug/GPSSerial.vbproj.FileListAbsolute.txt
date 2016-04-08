@@ -1,0 +1,9 @@
+C:\HPBarcode\HPBarcode\GPSSerial\bin\Debug\GPSSerial.dll
+C:\HPBarcode\HPBarcode\GPSSerial\bin\Debug\GPSSerial.pdb
+C:\HPBarcode\HPBarcode\GPSSerial\bin\Debug\GPSSerial.xml
+C:\HPBarcode\HPBarcode\GPSSerial\obj\Debug\ResolveAssemblyReference.cache
+C:\HPBarcode\HPBarcode\GPSSerial\obj\Debug\GPSSerial.Resources.resources
+C:\HPBarcode\HPBarcode\GPSSerial\obj\Debug\GPSSerial.vbproj.GenerateResource.Cache
+C:\HPBarcode\HPBarcode\GPSSerial\obj\Debug\GPSSerial.dll
+C:\HPBarcode\HPBarcode\GPSSerial\obj\Debug\GPSSerial.xml
+C:\HPBarcode\HPBarcode\GPSSerial\obj\Debug\GPSSerial.pdb
